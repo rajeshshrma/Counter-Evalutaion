@@ -9,6 +9,6 @@ Technology Used
 
 
 Steps to execute this program.
-1. Execute the given SQL script to create a table in MySQL
+1. Execute the given SQL script to create a table in MySQL (user - root, pwd - root -> Can be change in application.properties) 
 2. Import the project in Eclipse
 3. Run the Application (This will automatically start the in-build tomcat server in Boot Framework)
